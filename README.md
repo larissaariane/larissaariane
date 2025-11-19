@@ -7,7 +7,6 @@ Tenho paixão por **desenvolvimento Front-End**, tanto para **aplicações Web**
 
 
 ---
-
 ### 💻 Linguagens e Tecnologias
 
 <img 
@@ -53,6 +52,8 @@ Tenho paixão por **desenvolvimento Front-End**, tanto para **aplicações Web**
 
 <br/>
 
+
+
 <!--### 📊 Estatísticas
 
 <p>
@@ -72,6 +73,9 @@ Tenho paixão por **desenvolvimento Front-End**, tanto para **aplicações Web**
   />
 
 </p>-->
+<br/>
+<br/>
+<br/>
 
 ## 📬 Contatos
 
