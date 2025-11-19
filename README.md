@@ -8,7 +8,7 @@ Tenho paixão por **desenvolvimento Front-End**, tanto para **aplicações Web**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -72,3 +72,9 @@ Tenho paixão por **desenvolvimento Front-End**, tanto para **aplicações Web**
   />
 
 </p>-->
+
+## 📬 Contatos
+
+<a href="https://www.linkedin.com/in/larissa-ariane/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
